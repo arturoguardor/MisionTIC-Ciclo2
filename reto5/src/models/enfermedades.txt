@@ -1,0 +1,42 @@
+Prueba 1
+Staci Bowers-6960422557-81-Quibdo-Unimec-Cerebrovasculares
+Juanita Renfro-6699823710-63-Neiva-Famisanar-Cerebrovasculares
+William Johnson-8144932110-80-Barranquilla-Saludcoop-Cerebrovasculares
+Joseph Barela-4672490876-50-Cali-Coomeva-Cerebrovasculares
+Michael Williams-3856200780-30-Barranquilla-Cafesalud-Cerebrovasculares
+Gregory Lopez-7364321639-26-Tunja-Unimec-Cerebrovasculares
+Vance Cole-515497389-36-Popayan-Coomeva-Cerebrovasculares
+Elmer Stallings-8992400528-48-Quibdo-Salud Total-Cerebrovasculares
+Judy Deloney-223319603-97-Yopal-Sanitas-Cerebrovasculares
+
+Keith Newman-1578800252-27-Cartagena-Salud Colmena-Hipertension
+Brandon Jackson-6389570755-83-Cucuta-Saludcoop-Hipertension
+Bryan Gordon-1324328423-59-Inirida-Cafesalud-Hipertension
+Pasquale Travis-9920420886-73-Ibague-Coomeva-Hipertension
+Leslie Massie-2137991329-47-Quibdo-Famisanar-Hipertension
+Austin Byrd-6145674301-21-Santa Marta-Unimec-Hipertension
+Donald Laporte-6652251887-64-Arauca-Cafesalud-Hipertension
+Gerald Bellamy-2620585123-33-Sincelejo-Sanitas-Hipertension
+
+Jesus Clair-9228696664-61-Cali-Sanitas-Diabetes
+Margaret Curtis-2928481906-53-Cali-Saludcoop-Diabetes
+Scott Crabtree-6640736914-59-Mocoa-Salud Colmena-Diabetes
+Beth Nunes-9268487355-55-Cali-Saludcoop-Diabetes
+Peter Montoya-2886845340-23-Pasto-Coomeva-Diabetes
+
+Sherrie Belyoussian-997066614-49-Sincelejo-Sanitas-Respiratorias
+Valarie Howard-2139220903-60-Sincelejo-Salud Total-Respiratorias
+Minnie Stephens-7153763987-53-Ibague-Sanitas-Respiratorias
+Peter Vanwinkle-3202483037-90-Florencia-Salud Colmena-Respiratorias
+
+Raymond Rheaume-9771730016-98-Leticia-Sanitas-Cancer
+Doug Hood-5790454984-79-Bogota-Salud Colmena-Cancer
+Norman Spencer-4089604830-78-Inirida-Unimec-Cancer
+Matthew Schindele-9210777049-87-Leticia-Unimec-Cancer
+
+Patrick Bryant-8201971491-25-Florencia-Sura-Cardiovasculares
+Benjamin Fuller-7971583334-27-Pereira-Sanitas-Cardiovasculares
+James Allison-8030032567-47-Mitu-Salud Colmena-Cardiovasculares
+Margaret Pearson-2612277035-24-Bogota-Sanitas-Cardiovasculares
+Fannie Williams-6224714834-85-Neiva-Sura-Cardiovasculares
+
